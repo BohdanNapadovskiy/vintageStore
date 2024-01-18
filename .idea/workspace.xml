@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0881d147-9f90-4435-80a1-a1949732d6d6" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/rest-book/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-book/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-book/src/main/docker/Dockerfile.native" beforeDir="false" afterPath="$PROJECT_DIR$/rest-book/src/main/docker/Dockerfile.native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-book/src/main/java/org/agoncal/quarkus/microservices/book/BookResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-book/src/main/java/org/agoncal/quarkus/microservices/book/BookResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-book/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rest-book/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-book/src/test/java/org/agoncal/quarkus/microservices/book/BookResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-book/src/test/java/org/agoncal/quarkus/microservices/book/BookResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-number/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-number/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-number/src/main/docker/Dockerfile.native" beforeDir="false" afterPath="$PROJECT_DIR$/rest-number/src/main/docker/Dockerfile.native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-number/src/main/java/org/agoncal/quarkus/microservices/number/NumberResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-number/src/main/java/org/agoncal/quarkus/microservices/number/NumberResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-number/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rest-number/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-number/src/test/java/org/agoncal/quarkus/microservices/number/NumberResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-number/src/test/java/org/agoncal/quarkus/microservices/number/NumberResourceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2b2HIOovCFg4qCUdzPULBYXGPTH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.vintagestore-docker-compose.yaml.rest-book: Compose Deployment.executor": "Run",
+    "Docker.vintagestore-docker-compose.yaml.rest-number: Compose Deployment.executor": "Run",
+    "Docker.vintagestore-docker-compose.yaml: Compose Deployment.executor": "Run",
+    "JUnit.BookResourceTest.executor": "Run",
+    "JUnit.NumberResourceTest.testHelloEndpoint.executor": "Run",
+    "Maven.rest-book [clean].executor": "Run",
+    "Quarkus.rest-book.executor": "Run",
+    "Quarkus.rest-number.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "production",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/bohdan/projects/vintageStore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.agoncal.quarkus.microservices.number" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rest-book/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.agoncal.quarkus.microservices.book" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.vintagestore-docker-compose.yaml.rest-book: Compose Deployment">
+    <configuration name="BookResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.agoncal.quarkus.microservices.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.agoncal.quarkus.microservices.book" />
+      <option name="MAIN_CLASS_NAME" value="org.agoncal.quarkus.microservices.book.BookResourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberResourceTest.testHelloEndpoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.agoncal.quarkus.microservices.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.agoncal.quarkus.microservices.number" />
+      <option name="MAIN_CLASS_NAME" value="org.agoncal.quarkus.microservices.number.NumberResourceTest" />
+      <option name="METHOD_NAME" value="testHelloEndpoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-book" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="rest-book" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="cmdOptions" />
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="multimoduleDir" />
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="projectsCmdOptionValues">
+                <list />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/rest-book" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>true</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-number" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="rest-number" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="cmdOptions" />
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="multimoduleDir" />
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="projectsCmdOptionValues">
+                <list />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/rest-number" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>true</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vintagestore-docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="vintagestore-docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="vintagestore-docker-compose.yaml.rest-book: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="rest-book" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="vintagestore-docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="vintagestore-docker-compose.yaml.rest-number: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="rest-number" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="vintagestore-docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.vintagestore-docker-compose.yaml.rest-book: Compose Deployment" />
+        <item itemvalue="Docker.vintagestore-docker-compose.yaml.rest-number: Compose Deployment" />
+        <item itemvalue="Docker.vintagestore-docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="JUnit.BookResourceTest" />
+        <item itemvalue="JUnit.NumberResourceTest.testHelloEndpoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0881d147-9f90-4435-80a1-a1949732d6d6" name="Changes" comment="" />
+      <created>1705406173381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705406173381</updated>
+      <workItem from="1705406174576" duration="4086000" />
+      <workItem from="1705411653025" duration="552000" />
+      <workItem from="1705412217141" duration="5084000" />
+      <workItem from="1705485834571" duration="21402000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1705414836329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414836329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
